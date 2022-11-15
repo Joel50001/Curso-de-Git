@@ -1,2 +1,2 @@
 # Curso-de-Git
-## Finalizan prácticas con ramas (branch) 15 dde nov. de 2022.
+## Finalizan prácticas con ramas (branch) 15 de nov. de 2022.
